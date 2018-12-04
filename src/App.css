@@ -22,6 +22,25 @@
   color: #61dafb;
 }
 
+.App button {
+  color: white;
+  background: #cc0066;
+  height: 100px;
+  width: 200px;
+  font-size: larger;
+  border: 0px;
+  outline:none;
+}
+
+.App button:hover {
+  background: #990033;
+}
+
+.App button:active {
+  background: #660033;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
