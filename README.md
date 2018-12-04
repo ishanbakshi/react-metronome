@@ -1,3 +1,15 @@
+# Metronome
+
+A react app which implements a metronome.
+
+This was Built for Fun. 
+
+References: https://daveceddia.com/react-practice-projects/
+
+
+
+
+# Other project information from the root build Project
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
