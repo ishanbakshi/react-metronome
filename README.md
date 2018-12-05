@@ -4,7 +4,17 @@ A react app which implements a metronome.
 
 This was Built for Fun. 
 
-References: https://daveceddia.com/react-practice-projects/
+
+## Possible improvements:
+
+ Metronome sounds a bit of out of beat ocassionaly
+ There is sometimes a lag in loading the file which causes the setInterval function to run not exactly in the interval time.
+ This could possibly be resolved my using the webAudio API of the browser, instead of loading sound from a wav file
+
+References: 
+1) https://daveceddia.com/react-practice-projects/
+
+2) https://www.codeproject.com/Articles/1202580/Build-a-Metronome-in-React
 
 
 
